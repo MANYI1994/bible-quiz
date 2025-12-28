@@ -1,0 +1,40 @@
+{
+  "categories": {
+    "Old Testament": {
+      "Easy": [
+        {
+          "question": "Who built the ark?",
+          "options": ["Moses", "Noah", "Abraham", "David"],
+          "answer": 1,
+          "verse": "Genesis 6:13–14"
+        }
+      ],
+      "Medium": [
+        {
+          "question": "Which prophet confronted King Ahab?",
+          "options": ["Elijah", "Isaiah", "Jeremiah", "Ezekiel"],
+          "answer": 0,
+          "verse": "1 Kings 18"
+        }
+      ]
+    },
+    "New Testament": {
+      "Easy": [
+        {
+          "question": "Where was Jesus born?",
+          "options": ["Nazareth", "Bethlehem", "Jerusalem", "Capernaum"],
+          "answer": 1,
+          "verse": "Luke 2:4–7"
+        }
+      ],
+      "Hard": [
+        {
+          "question": "Which book comes immediately after the Gospels?",
+          "options": ["Romans", "Acts", "Hebrews", "James"],
+          "answer": 1,
+          "verse": "Acts 1:1"
+        }
+      ]
+    }
+  }
+}
